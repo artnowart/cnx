@@ -1,0 +1,8 @@
+User:           Artur N
+Class:          CN2
+Device Model:   Raspberry Pi 4 Model B Rev 1.4
+Description:	Ubuntu 22.04.1 LTS
+Ethernet MAC:   e4:5f:01:6d:8c:8e
+WiFi MAC:       e4:5f:01:6d:8c:8f
+CPU Serial No:  1000000052202b78
+Time and Date:  11:15:57 20/10/22
